@@ -1,5 +1,5 @@
 # uninhibited-cfg21
-website
+Website
 
 ## Get the Code
 
